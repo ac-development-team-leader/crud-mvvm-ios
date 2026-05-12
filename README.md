@@ -1,15 +1,17 @@
 # Swift MVVM App 🚀
 
-A simple iOS application built with **Swift** using the **MVVM Architecture** pattern.
+A clean and simple iOS application built with **Swift** using the **MVVM Architecture** pattern.
+
+Designed for scalability, clean code, and easy maintenance.
 
 ---
 
 ## ✨ Features
 
-- Clean MVVM Structure
-- Easy to Understand
-- Scalable Architecture
+- Clean MVVM Architecture
+- Simple & Scalable Structure
 - Reusable Components
+- Organized Codebase
 - Beginner Friendly
 
 ---
@@ -29,50 +31,48 @@ Project/
 
 ---
 
-## 🔄 MVVM Flow
+## 🔄 Architecture Flow
 
 ```text
 View ↔ ViewModel ↔ Model
 ```
 
-- **View** → UI Layer
-- **ViewModel** → Business Logic
-- **Model** → Data Layer
+- **View** → UI Layer  
+- **ViewModel** → Business Logic  
+- **Model** → Data Management  
 
 ---
 
-## 🛠 Built With
+## 🛠 Technologies
 
 - Swift
 - UIKit
-- MVVM
+- MVVM Architecture
 - URLSession
 
 ---
 
 ## 🚀 Getting Started
 
+Clone the repository:
+
 ```bash
 git clone https://github.com/your-repository.git
 ```
 
-Open the project in Xcode and run:
-
-```bash
-⌘ + R
-```
+Open in Xcode and run the project.
 
 ---
 
 ## 📌 Best Practices
 
-- Keep ViewControllers lightweight
-- Separate business logic
-- Use reusable components
-- Organize files clearly
+- Lightweight ViewControllers
+- Clean separation of concerns
+- Reusable & maintainable code
+- Easy project navigation
 
 ---
 
 ## 👨‍💻 Author
 
-Built with Swift MVVM Architecture.
+Built with ❤️ using Swift MVVM.
